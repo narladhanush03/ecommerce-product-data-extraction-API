@@ -1,0 +1,195 @@
+id,title,category,price,discountPercentage,rating,stock,brand,sku,weight,availabilityStatus,returnPolicy,minimumOrderQuantity,Discount_Amount,Discounted_Price,Inventory_Value,Discounted_Inventory_Value,Discount_Band,Stock_Status
+1,Essence Mascara Lash Princess,beauty,9.99,10.48,2.56,99,Essence,BEA-ESS-ESS-001,4,In Stock,No return policy,48,1.05,8.94,989.01,885.06,Medium,High Stock
+2,Eyeshadow Palette with Mirror,beauty,19.99,18.19,2.86,34,Glamour Beauty,BEA-GLA-EYE-002,9,In Stock,7 days return policy,20,3.64,16.35,679.66,555.9,Medium,Medium Stock
+3,Powder Canister,beauty,14.99,9.84,4.64,89,Velvet Touch,BEA-VEL-POW-003,8,In Stock,No return policy,22,1.48,13.51,1334.11,1202.39,Low,High Stock
+4,Red Lipstick,beauty,12.99,12.16,4.36,91,Chic Cosmetics,BEA-CHI-LIP-004,1,In Stock,7 days return policy,40,1.58,11.41,1182.09,1038.31,Medium,High Stock
+5,Red Nail Polish,beauty,8.99,11.44,4.32,79,Nail Couture,BEA-NAI-NAI-005,8,In Stock,No return policy,22,1.03,7.96,710.21,628.84,Medium,High Stock
+6,Calvin Klein CK One,fragrances,49.99,1.89,4.37,29,Calvin Klein,FRA-CAL-CAL-006,7,In Stock,90 days return policy,9,0.94,49.05,1449.71,1422.45,Low,Medium Stock
+7,Chanel Coco Noir Eau De,fragrances,129.99,16.51,4.26,58,Chanel,FRA-CHA-CHA-007,7,In Stock,No return policy,1,21.46,108.53,7539.42,6294.74,Medium,High Stock
+8,Dior J'adore,fragrances,89.99,14.72,3.8,98,Dior,FRA-DIO-DIO-008,4,In Stock,7 days return policy,10,13.25,76.74,8819.02,7520.52,Medium,High Stock
+9,Dolce Shine Eau de,fragrances,69.99,0.62,3.96,4,Dolce & Gabbana,FRA-DOL-DOL-009,6,Low Stock,7 days return policy,2,0.43,69.56,279.96,278.24,Low,Low Stock
+10,Gucci Bloom Eau de,fragrances,79.99,14.39,2.74,91,Gucci,FRA-GUC-GUC-010,7,In Stock,No return policy,2,11.51,68.48,7279.09,6231.68,Medium,High Stock
+11,Annibale Colombo Bed,furniture,1899.99,8.57,4.77,88,Annibale Colombo,FUR-ANN-ANN-011,10,In Stock,No return policy,1,162.83,1737.16,167199.12,152870.08,Low,High Stock
+12,Annibale Colombo Sofa,furniture,2499.99,14.4,3.92,60,Annibale Colombo,FUR-ANN-ANN-012,6,In Stock,7 days return policy,1,360.0,2139.99,149999.4,128399.4,Medium,High Stock
+13,Bedside Table African Cherry,furniture,299.99,19.09,2.87,64,Furniture Co.,FUR-FUR-BED-013,2,In Stock,7 days return policy,3,57.27,242.72,19199.36,15534.08,Medium,High Stock
+14,Knoll Saarinen Executive Conference Chair,furniture,499.99,2.01,4.88,26,Knoll,FUR-KNO-KNO-014,10,In Stock,60 days return policy,5,10.05,489.94,12999.74,12738.44,Low,Medium Stock
+15,Wooden Bathroom Sink With Mirror,furniture,799.99,8.8,3.59,7,Bath Trends,FUR-BAT-WOO-015,10,Low Stock,60 days return policy,2,70.4,729.59,5599.93,5107.13,Low,Low Stock
+16,Apple,groceries,1.99,12.62,4.19,8,Unknown,GRO-BRD-APP-016,9,In Stock,90 days return policy,7,0.25,1.74,15.92,13.92,Medium,Low Stock
+17,Beef Steak,groceries,12.99,9.61,4.47,86,Unknown,GRO-BRD-BEE-017,10,In Stock,60 days return policy,43,1.25,11.74,1117.14,1009.64,Low,High Stock
+18,Cat Food,groceries,8.99,9.58,3.13,46,Unknown,GRO-BRD-FOO-018,10,In Stock,No return policy,18,0.86,8.13,413.54,373.98,Low,Medium Stock
+19,Chicken Meat,groceries,9.99,13.7,3.19,97,Unknown,GRO-BRD-CHI-019,1,In Stock,7 days return policy,22,1.37,8.62,969.03,836.14,Medium,High Stock
+20,Cooking Oil,groceries,4.99,9.33,4.8,10,Unknown,GRO-BRD-COO-020,5,In Stock,30 days return policy,46,0.47,4.52,49.9,45.2,Low,Low Stock
+21,Cucumber,groceries,1.49,0.16,4.07,84,Unknown,GRO-BRD-CUC-021,4,In Stock,7 days return policy,2,0.0,1.49,125.16,125.16,Low,High Stock
+22,Dog Food,groceries,10.99,10.27,4.55,71,Unknown,GRO-BRD-FOO-022,10,In Stock,60 days return policy,43,1.13,9.86,780.29,700.06,Medium,High Stock
+23,Eggs,groceries,2.99,11.05,2.53,9,Unknown,GRO-BRD-EGG-023,2,In Stock,No return policy,32,0.33,2.66,26.91,23.94,Medium,Low Stock
+24,Fish Steak,groceries,14.99,4.23,3.78,74,Unknown,GRO-BRD-FIS-024,6,In Stock,60 days return policy,50,0.63,14.36,1109.26,1062.64,Low,High Stock
+25,Green Bell Pepper,groceries,1.29,0.16,3.25,33,Unknown,GRO-BRD-GRE-025,2,In Stock,30 days return policy,12,0.0,1.29,42.57,42.57,Low,Medium Stock
+26,Green Chili Pepper,groceries,0.99,1.0,3.66,3,Unknown,GRO-BRD-GRE-026,7,Low Stock,30 days return policy,39,0.01,0.98,2.97,2.94,Low,Low Stock
+27,Honey Jar,groceries,6.99,14.4,3.97,34,Unknown,GRO-BRD-HON-027,2,In Stock,90 days return policy,47,1.01,5.98,237.66,203.32,Medium,Medium Stock
+28,Ice Cream,groceries,5.49,8.69,3.39,27,Unknown,GRO-BRD-CRE-028,1,In Stock,No return policy,42,0.48,5.01,148.23,135.27,Low,Medium Stock
+29,Juice,groceries,3.99,12.06,3.94,50,Unknown,GRO-BRD-JUI-029,1,In Stock,No return policy,25,0.48,3.51,199.5,175.5,Medium,Medium Stock
+30,Kiwi,groceries,2.49,15.22,4.93,99,Unknown,GRO-BRD-KIW-030,5,In Stock,7 days return policy,30,0.38,2.11,246.51,208.89,Medium,High Stock
+31,Lemon,groceries,0.79,9.7,3.53,31,Unknown,GRO-BRD-LEM-031,3,In Stock,7 days return policy,29,0.08,0.71,24.49,22.01,Low,Medium Stock
+32,Milk,groceries,3.49,13.74,2.61,27,Unknown,GRO-BRD-MIL-032,5,In Stock,7 days return policy,5,0.48,3.01,94.23,81.27,Medium,Medium Stock
+33,Mulberry,groceries,4.99,12.87,4.95,99,Unknown,GRO-BRD-MUL-033,5,In Stock,No return policy,43,0.64,4.35,494.01,430.65,Medium,High Stock
+34,Nescafe Coffee,groceries,7.99,1.59,4.82,57,Unknown,GRO-BRD-NES-034,6,In Stock,30 days return policy,8,0.13,7.86,455.43,448.02,Low,High Stock
+35,Potatoes,groceries,2.29,5.38,4.81,13,Unknown,GRO-BRD-POT-035,9,In Stock,90 days return policy,9,0.12,2.17,29.77,28.21,Low,Low Stock
+36,Protein Powder,groceries,19.99,7.59,4.18,80,Unknown,GRO-BRD-PRO-036,9,In Stock,No return policy,6,1.52,18.47,1599.2,1477.6,Low,High Stock
+37,Red Onions,groceries,1.99,9.9,4.2,82,Unknown,GRO-BRD-ONI-037,9,In Stock,7 days return policy,8,0.2,1.79,163.18,146.78,Low,High Stock
+38,Rice,groceries,5.99,9.29,3.18,59,Unknown,GRO-BRD-RIC-038,5,In Stock,No return policy,20,0.56,5.43,353.41,320.37,Low,High Stock
+39,Soft Drinks,groceries,1.99,17.48,4.75,53,Unknown,GRO-BRD-SOF-039,9,In Stock,7 days return policy,10,0.35,1.64,105.47,86.92,Medium,High Stock
+40,Strawberry,groceries,3.99,1.12,3.08,46,Unknown,GRO-BRD-STR-040,1,In Stock,No return policy,12,0.04,3.95,183.54,181.7,Low,Medium Stock
+41,Tissue Paper Box,groceries,2.49,13.28,2.69,86,Unknown,GRO-BRD-TIS-041,1,In Stock,90 days return policy,44,0.33,2.16,214.14,185.76,Medium,High Stock
+42,Water,groceries,0.99,14.92,4.96,53,Unknown,GRO-BRD-WAT-042,4,In Stock,7 days return policy,28,0.15,0.84,52.47,44.52,Medium,High Stock
+43,Decoration Swing,home-decoration,59.99,10.41,3.16,47,Unknown,HOM-BRD-DEC-043,4,In Stock,90 days return policy,8,6.24,53.75,2819.53,2526.25,Medium,Medium Stock
+44,Family Tree Photo Frame,home-decoration,29.99,14.87,4.53,77,Unknown,HOM-BRD-FAM-044,1,In Stock,No return policy,15,4.46,25.53,2309.23,1965.81,Medium,High Stock
+45,House Showpiece Plant,home-decoration,39.99,7.46,4.67,28,Unknown,HOM-BRD-HOU-045,8,In Stock,No return policy,3,2.98,37.01,1119.72,1036.28,Low,Medium Stock
+46,Plant Pot,home-decoration,14.99,6.84,3.01,59,Unknown,HOM-BRD-PLA-046,9,In Stock,30 days return policy,31,1.03,13.96,884.41,823.64,Low,High Stock
+47,Table Lamp,home-decoration,49.99,7.09,3.55,9,Unknown,HOM-BRD-TAB-047,4,In Stock,90 days return policy,2,3.54,46.45,449.91,418.05,Low,Low Stock
+48,Bamboo Spatula,kitchen-accessories,7.99,2.84,3.27,37,Unknown,KIT-BRD-BAM-048,3,In Stock,60 days return policy,29,0.23,7.76,295.63,287.12,Low,Medium Stock
+49,Black Aluminium Cup,kitchen-accessories,5.99,15.65,4.46,75,Unknown,KIT-BRD-BLA-049,7,In Stock,30 days return policy,48,0.94,5.05,449.25,378.75,Medium,High Stock
+50,Black Whisk,kitchen-accessories,9.99,10.24,3.9,73,Unknown,KIT-BRD-BLA-050,1,In Stock,30 days return policy,40,1.02,8.97,729.27,654.81,Medium,High Stock
+51,Boxed Blender,kitchen-accessories,39.99,7.26,4.56,9,Unknown,KIT-BRD-BOX-051,1,In Stock,7 days return policy,4,2.9,37.09,359.91,333.81,Low,Low Stock
+52,Carbon Steel Wok,kitchen-accessories,29.99,6.53,4.05,40,Unknown,KIT-BRD-CAR-052,2,In Stock,7 days return policy,9,1.96,28.03,1199.6,1121.2,Low,Medium Stock
+53,Chopping Board,kitchen-accessories,12.99,8.03,3.7,14,Unknown,KIT-BRD-CHO-053,2,In Stock,No return policy,5,1.04,11.95,181.86,167.3,Low,Low Stock
+54,Citrus Squeezer Yellow,kitchen-accessories,8.99,12.1,4.63,22,Unknown,KIT-BRD-CIT-054,2,In Stock,60 days return policy,38,1.09,7.9,197.78,173.8,Medium,Medium Stock
+55,Egg Slicer,kitchen-accessories,6.99,14.76,3.09,40,Unknown,KIT-BRD-SLI-055,2,In Stock,No return policy,32,1.03,5.96,279.6,238.4,Medium,Medium Stock
+56,Electric Stove,kitchen-accessories,49.99,14.04,4.11,21,Unknown,KIT-BRD-ELE-056,5,In Stock,7 days return policy,8,7.02,42.97,1049.79,902.37,Medium,Medium Stock
+57,Fine Mesh Strainer,kitchen-accessories,9.99,3.5,3.04,85,Unknown,KIT-BRD-FIN-057,9,In Stock,7 days return policy,43,0.35,9.64,849.15,819.4,Low,High Stock
+58,Fork,kitchen-accessories,3.99,8.07,3.11,7,Unknown,KIT-BRD-FOR-058,9,In Stock,No return policy,36,0.32,3.67,27.93,25.69,Low,Low Stock
+59,Glass,kitchen-accessories,4.99,7.92,4.02,46,Unknown,KIT-BRD-GLA-059,10,In Stock,7 days return policy,17,0.4,4.59,229.54,211.14,Low,Medium Stock
+60,Grater Black,kitchen-accessories,10.99,3.56,3.21,84,Unknown,KIT-BRD-GRA-060,3,In Stock,60 days return policy,5,0.39,10.6,923.16,890.4,Low,High Stock
+61,Hand Blender,kitchen-accessories,34.99,17.02,3.86,84,Unknown,KIT-BRD-HAN-061,5,In Stock,No return policy,11,5.96,29.03,2939.16,2438.52,Medium,High Stock
+62,Ice Cube Tray,kitchen-accessories,5.99,0.63,4.71,13,Unknown,KIT-BRD-CUB-062,3,In Stock,No return policy,16,0.04,5.95,77.87,77.35,Low,Low Stock
+63,Kitchen Sieve,kitchen-accessories,7.99,18.91,3.09,68,Unknown,KIT-BRD-KIT-063,5,In Stock,No return policy,5,1.51,6.48,543.32,440.64,Medium,High Stock
+64,Knife,kitchen-accessories,14.99,18.86,3.26,7,Unknown,KIT-BRD-KNI-064,3,Low Stock,7 days return policy,50,2.83,12.16,104.93,85.12,Medium,Low Stock
+65,Lunch Box,kitchen-accessories,12.99,10.34,4.93,94,Unknown,KIT-BRD-LUN-065,9,In Stock,30 days return policy,39,1.34,11.65,1221.06,1095.1,Medium,High Stock
+66,Microwave Oven,kitchen-accessories,89.99,12.13,4.82,59,Unknown,KIT-BRD-MIC-066,9,In Stock,7 days return policy,4,10.92,79.07,5309.41,4665.13,Medium,High Stock
+67,Mug Tree Stand,kitchen-accessories,15.99,9.25,2.64,88,Unknown,KIT-BRD-TRE-067,3,In Stock,30 days return policy,45,1.48,14.51,1407.12,1276.88,Low,High Stock
+68,Pan,kitchen-accessories,24.99,3.0,2.79,90,Unknown,KIT-BRD-PRD-068,8,In Stock,30 days return policy,17,0.75,24.24,2249.1,2181.6,Low,High Stock
+69,Plate,kitchen-accessories,3.99,7.31,3.65,66,Unknown,KIT-BRD-PLA-069,4,In Stock,90 days return policy,6,0.29,3.7,263.34,244.2,Low,High Stock
+70,Red Tongs,kitchen-accessories,6.99,14.52,4.42,82,Unknown,KIT-BRD-TON-070,7,In Stock,30 days return policy,23,1.01,5.98,573.18,490.36,Medium,High Stock
+71,Silver Pot With Glass Cap,kitchen-accessories,39.99,5.7,3.22,40,Unknown,KIT-BRD-SIL-071,7,In Stock,90 days return policy,10,2.28,37.71,1599.6,1508.4,Low,Medium Stock
+72,Slotted Turner,kitchen-accessories,8.99,13.35,3.4,88,Unknown,KIT-BRD-SLO-072,8,In Stock,7 days return policy,34,1.2,7.79,791.12,685.52,Medium,High Stock
+73,Spice Rack,kitchen-accessories,19.99,12.09,4.87,79,Unknown,KIT-BRD-SPI-073,7,In Stock,7 days return policy,18,2.42,17.57,1579.21,1388.03,Medium,High Stock
+74,Spoon,kitchen-accessories,4.99,1.53,4.03,59,Unknown,KIT-BRD-SPO-074,6,In Stock,90 days return policy,15,0.08,4.91,294.41,289.69,Low,High Stock
+75,Tray,kitchen-accessories,16.99,7.48,4.62,71,Unknown,KIT-BRD-TRA-075,10,In Stock,7 days return policy,23,1.27,15.72,1206.29,1116.12,Low,High Stock
+76,Wooden Rolling Pin,kitchen-accessories,11.99,9.75,2.92,80,Unknown,KIT-BRD-WOO-076,7,In Stock,30 days return policy,11,1.17,10.82,959.2,865.6,Low,High Stock
+77,Yellow Peeler,kitchen-accessories,5.99,12.48,4.24,35,Unknown,KIT-BRD-YEL-077,7,In Stock,90 days return policy,6,0.75,5.24,209.65,183.4,Medium,Medium Stock
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,1999.99,4.69,3.65,24,Apple,LAP-APP-APP-078,9,In Stock,90 days return policy,1,93.8,1906.19,47999.76,45748.56,Low,Medium Stock
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,1799.99,11.14,3.95,45,Asus,LAP-ASU-ASU-079,9,In Stock,7 days return policy,1,200.52,1599.47,80999.55,71976.15,Medium,Medium Stock
+80,Huawei Matebook X Pro,laptops,1399.99,9.38,4.98,75,Huawei,LAP-HUA-HUA-080,9,In Stock,60 days return policy,1,131.32,1268.67,104999.25,95150.25,Low,High Stock
+81,Lenovo Yoga 920,laptops,1099.99,6.55,2.86,40,Lenovo,LAP-LEN-LEN-081,9,In Stock,No return policy,1,72.05,1027.94,43999.6,41117.6,Low,Medium Stock
+82,New DELL XPS 13 9300 Laptop,laptops,1499.99,11.89,2.67,74,Dell,LAP-DEL-DEL-082,2,In Stock,60 days return policy,1,178.35,1321.64,110999.26,97801.36,Medium,High Stock
+83,Blue & Black Check Shirt,mens-shirts,29.99,15.35,3.64,38,Fashion Trends,MEN-FAS-BLU-083,4,In Stock,30 days return policy,18,4.6,25.39,1139.62,964.82,Medium,Medium Stock
+84,Gigabyte Aorus Men Tshirt,mens-shirts,24.99,0.94,3.18,90,Gigabyte,MEN-GIG-GIG-084,4,In Stock,30 days return policy,16,0.23,24.76,2249.1,2228.4,Low,High Stock
+85,Man Plaid Shirt,mens-shirts,34.99,19.5,3.46,82,Classic Wear,MEN-CLA-PLA-085,3,In Stock,7 days return policy,13,6.82,28.17,2869.18,2309.94,Medium,High Stock
+86,Man Short Sleeve Shirt,mens-shirts,19.99,6.83,2.9,2,Casual Comfort,MEN-CAS-SHO-086,2,Low Stock,30 days return policy,4,1.37,18.62,39.98,37.24,Low,Low Stock
+87,Men Check Shirt,mens-shirts,27.99,11.38,2.72,95,Urban Chic,MEN-URB-CHE-087,10,In Stock,30 days return policy,12,3.19,24.8,2659.05,2356.0,Medium,High Stock
+88,Nike Air Jordan 1 Red And Black,mens-shoes,149.99,4.12,4.77,7,Nike,MEN-NIK-NIK-088,3,In Stock,No return policy,1,6.18,143.81,1049.93,1006.67,Low,Low Stock
+89,Nike Baseball Cleats,mens-shoes,79.99,18.04,3.88,12,Nike,MEN-NIK-NIK-089,9,In Stock,No return policy,3,14.43,65.56,959.88,786.72,Medium,Low Stock
+90,Puma Future Rider Trainers,mens-shoes,89.99,4.2,4.9,90,Puma,MEN-PUM-PUM-090,6,In Stock,90 days return policy,10,3.78,86.21,8099.1,7758.9,Low,High Stock
+91,Sports Sneakers Off White & Red,mens-shoes,119.99,4.97,4.77,17,Off White,MEN-OFF-SPO-091,7,In Stock,30 days return policy,5,5.96,114.03,2039.83,1938.51,Low,Low Stock
+92,Sports Sneakers Off White Red,mens-shoes,109.99,0.04,4.69,62,Off White,MEN-OFF-SPO-092,9,In Stock,60 days return policy,3,0.04,109.95,6819.38,6816.9,Low,High Stock
+93,Brown Leather Belt Watch,mens-watches,89.99,5.99,4.19,32,Fashion Timepieces,MEN-FAS-BRO-093,10,In Stock,30 days return policy,7,5.39,84.6,2879.68,2707.2,Low,Medium Stock
+94,Longines Master Collection,mens-watches,1499.99,17.24,3.87,100,Longines,MEN-LON-LON-094,4,In Stock,7 days return policy,1,258.6,1241.39,149999.0,124139.0,Medium,High Stock
+95,Rolex Cellini Date Black Dial,mens-watches,8999.99,8.88,4.97,40,Rolex,MEN-ROL-ROL-095,2,In Stock,90 days return policy,1,799.2,8200.79,359999.6,328031.6,Low,Medium Stock
+96,Rolex Cellini Moonphase,mens-watches,12999.99,17.52,2.58,36,Rolex,MEN-ROL-ROL-096,2,In Stock,7 days return policy,1,2277.6,10722.39,467999.64,386006.04,Medium,Medium Stock
+97,Rolex Datejust,mens-watches,10999.99,3.73,3.66,86,Rolex,MEN-ROL-ROL-097,4,In Stock,7 days return policy,1,410.3,10589.69,945999.14,910713.34,Low,High Stock
+98,Rolex Submariner Watch,mens-watches,13999.99,5.05,2.69,55,Rolex,MEN-ROL-ROL-098,4,In Stock,90 days return policy,1,707.0,13292.99,769999.45,731114.45,Low,High Stock
+99,Amazon Echo Plus,mobile-accessories,99.99,12.07,4.99,61,Amazon,MOB-AMA-AMA-099,5,In Stock,7 days return policy,9,12.07,87.92,6099.39,5363.12,Medium,High Stock
+100,Apple Airpods,mobile-accessories,129.99,15.54,4.15,67,Apple,MOB-APP-APP-100,4,In Stock,No return policy,4,20.2,109.79,8709.33,7355.93,Medium,High Stock
+101,Apple AirPods Max Silver,mobile-accessories,549.99,13.67,3.47,59,Apple,MOB-APP-APP-101,2,In Stock,No return policy,1,75.18,474.81,32449.41,28013.79,Medium,High Stock
+102,Apple Airpower Wireless Charger,mobile-accessories,79.99,4.48,3.68,1,Apple,MOB-APP-APP-102,5,Low Stock,90 days return policy,7,3.58,76.41,79.99,76.41,Low,Low Stock
+103,Apple HomePod Mini Cosmic Grey,mobile-accessories,99.99,18.1,4.62,27,Apple,MOB-APP-APP-103,10,In Stock,90 days return policy,8,18.1,81.89,2699.73,2211.03,Medium,Medium Stock
+104,Apple iPhone Charger,mobile-accessories,19.99,18.52,4.15,31,Apple,MOB-APP-APP-104,1,In Stock,90 days return policy,14,3.7,16.29,619.69,504.99,Medium,Medium Stock
+105,Apple MagSafe Battery Pack,mobile-accessories,99.99,17.17,3.62,1,Apple,MOB-APP-APP-105,6,Low Stock,No return policy,4,17.17,82.82,99.99,82.82,Medium,Low Stock
+106,Apple Watch Series 4 Gold,mobile-accessories,349.99,12.02,2.74,33,Apple,MOB-APP-APP-106,6,In Stock,No return policy,3,42.07,307.92,11549.67,10161.36,Medium,Medium Stock
+107,Beats Flex Wireless Earphones,mobile-accessories,49.99,5.73,4.24,50,Beats,MOB-BEA-BEA-107,8,In Stock,7 days return policy,17,2.86,47.13,2499.5,2356.5,Low,Medium Stock
+108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,29.99,13.85,3.62,69,Apple,MOB-APP-IPH-108,7,In Stock,90 days return policy,4,4.15,25.84,2069.31,1782.96,Medium,High Stock
+109,Monopod,mobile-accessories,19.99,8.58,4.43,48,TechGear,MOB-TEC-MON-109,10,In Stock,60 days return policy,30,1.72,18.27,959.52,876.96,Low,Medium Stock
+110,Selfie Lamp with iPhone,mobile-accessories,14.99,19.4,3.55,58,GadgetMaster,MOB-GAD-SEL-110,10,In Stock,60 days return policy,22,2.91,12.08,869.42,700.64,Medium,High Stock
+111,Selfie Stick Monopod,mobile-accessories,12.99,19.12,3.88,11,SnapTech,MOB-SNA-SEL-111,2,In Stock,30 days return policy,8,2.48,10.51,142.89,115.61,Medium,Low Stock
+112,TV Studio Camera Pedestal,mobile-accessories,499.99,8.31,2.78,15,ProVision,MOB-PRO-STU-112,4,In Stock,7 days return policy,1,41.55,458.44,7499.85,6876.6,Low,Low Stock
+113,Generic Motorcycle,motorcycle,3999.99,12.1,4.91,34,Generic Motors,MOT-GEN-GEN-113,8,In Stock,7 days return policy,1,484.0,3515.99,135999.66,119543.66,Medium,Medium Stock
+114,Kawasaki Z800,motorcycle,8999.99,9.77,3.98,52,Kawasaki,MOT-KAW-KAW-114,9,In Stock,90 days return policy,1,879.3,8120.69,467999.48,422275.88,Low,High Stock
+115,MotoGP CI.H1,motorcycle,14999.99,6.92,2.97,10,MotoGP,MOT-MOT-MOT-115,1,In Stock,30 days return policy,1,1038.0,13961.99,149999.9,139619.9,Low,Low Stock
+116,Scooter Motorcycle,motorcycle,2999.99,6.27,2.53,84,ScootMaster,MOT-SCO-SCO-116,7,In Stock,7 days return policy,1,188.1,2811.89,251999.16,236198.76,Low,High Stock
+117,Sportbike Motorcycle,motorcycle,7499.99,11.58,3.94,0,SpeedMaster,MOT-SPE-SPO-117,10,Out of Stock,30 days return policy,1,868.5,6631.49,0.0,0.0,Medium,Out of Stock
+118,Attitude Super Leaves Hand Soap,skin-care,8.99,18.49,3.19,94,Attitude,SKI-ATT-ATT-118,1,In Stock,60 days return policy,41,1.66,7.33,845.06,689.02,Medium,High Stock
+119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,12.99,16.39,4.51,34,Olay,SKI-OLA-OLA-119,4,In Stock,30 days return policy,33,2.13,10.86,441.66,369.24,Medium,Medium Stock
+120,Vaseline Men Body and Face Lotion,skin-care,9.99,13.39,3.16,95,Vaseline,SKI-VAS-VAS-120,4,In Stock,90 days return policy,9,1.34,8.65,949.05,821.75,Medium,High Stock
+121,iPhone 5s,smartphones,199.99,12.91,2.83,25,Apple,SMA-APP-IPH-121,2,In Stock,60 days return policy,3,25.82,174.17,4999.75,4354.25,Medium,Medium Stock
+122,iPhone 6,smartphones,299.99,6.69,3.41,60,Apple,SMA-APP-IPH-122,7,In Stock,7 days return policy,5,20.07,279.92,17999.4,16795.2,Low,High Stock
+123,iPhone 13 Pro,smartphones,1099.99,9.37,4.12,56,Apple,SMA-APP-IPH-123,8,In Stock,7 days return policy,1,103.07,996.92,61599.44,55827.52,Low,High Stock
+124,iPhone X,smartphones,899.99,19.59,2.51,37,Apple,SMA-APP-IPH-124,1,In Stock,7 days return policy,2,176.31,723.68,33299.63,26776.16,Medium,Medium Stock
+125,Oppo A57,smartphones,249.99,2.43,3.94,19,Oppo,SMA-OPP-OPP-125,5,In Stock,90 days return policy,3,6.07,243.92,4749.81,4634.48,Low,Low Stock
+126,Oppo F19 Pro Plus,smartphones,399.99,18.64,3.51,78,Oppo,SMA-OPP-OPP-126,6,In Stock,90 days return policy,1,74.56,325.43,31199.22,25383.54,Medium,High Stock
+127,Oppo K1,smartphones,299.99,18.29,4.25,55,Oppo,SMA-OPP-OPP-127,5,In Stock,30 days return policy,5,54.87,245.12,16499.45,13481.6,Medium,High Stock
+128,Realme C35,smartphones,149.99,15.3,4.2,48,Realme,SMA-REA-REA-128,2,In Stock,90 days return policy,3,22.95,127.04,7199.52,6097.92,Medium,Medium Stock
+129,Realme X,smartphones,299.99,6.95,3.7,12,Realme,SMA-REA-REA-129,4,In Stock,No return policy,3,20.85,279.14,3599.88,3349.68,Low,Low Stock
+130,Realme XT,smartphones,349.99,11.51,4.58,80,Realme,SMA-REA-REA-130,3,In Stock,60 days return policy,3,40.28,309.71,27999.2,24776.8,Medium,High Stock
+131,Samsung Galaxy S7,smartphones,299.99,19.55,3.3,67,Samsung,SMA-SAM-SAM-131,10,In Stock,No return policy,1,58.65,241.34,20099.33,16169.78,Medium,High Stock
+132,Samsung Galaxy S8,smartphones,499.99,19.45,4.4,0,Samsung,SMA-SAM-SAM-132,6,Out of Stock,No return policy,4,97.25,402.74,0.0,0.0,Medium,Out of Stock
+133,Samsung Galaxy S10,smartphones,699.99,5.59,3.06,19,Samsung,SMA-SAM-SAM-133,9,In Stock,30 days return policy,2,39.13,660.86,13299.81,12556.34,Low,Low Stock
+134,Vivo S1,smartphones,249.99,10.17,3.5,50,Vivo,SMA-VIV-VIV-134,4,In Stock,7 days return policy,1,25.42,224.57,12499.5,11228.5,Medium,Medium Stock
+135,Vivo V9,smartphones,299.99,17.67,3.6,82,Vivo,SMA-VIV-VIV-135,4,In Stock,60 days return policy,2,53.01,246.98,24599.18,20252.36,Medium,High Stock
+136,Vivo X21,smartphones,499.99,17.41,4.26,7,Vivo,SMA-VIV-VIV-136,10,In Stock,60 days return policy,3,87.05,412.94,3499.93,2890.58,Medium,Low Stock
+137,American Football,sports-accessories,19.99,4.93,4.91,53,Unknown,SPO-BRD-AME-137,2,In Stock,90 days return policy,1,0.99,19.0,1059.47,1007.0,Low,High Stock
+138,Baseball Ball,sports-accessories,8.99,1.71,2.57,100,Unknown,SPO-BRD-BAS-138,5,In Stock,30 days return policy,11,0.15,8.84,899.0,884.0,Low,High Stock
+139,Baseball Glove,sports-accessories,24.99,2.9,3.96,22,Unknown,SPO-BRD-BAS-139,1,In Stock,90 days return policy,8,0.72,24.27,549.78,533.94,Low,Medium Stock
+140,Basketball,sports-accessories,14.99,7.44,4.66,75,Unknown,SPO-BRD-BAS-140,7,In Stock,90 days return policy,11,1.12,13.87,1124.25,1040.25,Low,High Stock
+141,Basketball Rim,sports-accessories,39.99,7.74,4.6,43,Unknown,SPO-BRD-BAS-141,1,In Stock,No return policy,9,3.1,36.89,1719.57,1586.27,Low,Medium Stock
+142,Cricket Ball,sports-accessories,12.99,8.63,3.53,30,Unknown,SPO-BRD-CRI-142,7,In Stock,7 days return policy,11,1.12,11.87,389.7,356.1,Low,Medium Stock
+143,Cricket Bat,sports-accessories,29.99,3.29,3.17,98,Unknown,SPO-BRD-CRI-143,10,In Stock,No return policy,16,0.99,29.0,2939.02,2842.0,Low,High Stock
+144,Cricket Helmet,sports-accessories,44.99,9.64,4.69,10,Unknown,SPO-BRD-CRI-144,10,In Stock,60 days return policy,4,4.34,40.65,449.9,406.5,Low,Low Stock
+145,Cricket Wicket,sports-accessories,29.99,16.93,4.73,25,Unknown,SPO-BRD-CRI-145,5,In Stock,No return policy,20,5.08,24.91,749.75,622.75,Medium,Medium Stock
+146,Feather Shuttlecock,sports-accessories,5.99,2.95,2.85,95,Unknown,SPO-BRD-FEA-146,4,In Stock,60 days return policy,30,0.18,5.81,569.05,551.95,Low,High Stock
+147,Football,sports-accessories,17.99,5.15,3.28,96,Unknown,SPO-BRD-FOO-147,1,In Stock,7 days return policy,27,0.93,17.06,1727.04,1637.76,Low,High Stock
+148,Golf Ball,sports-accessories,9.99,17.37,4.3,84,Unknown,SPO-BRD-GOL-148,3,In Stock,No return policy,40,1.74,8.25,839.16,693.0,Medium,High Stock
+149,Iron Golf,sports-accessories,49.99,6.53,4.41,90,Unknown,SPO-BRD-IRO-149,2,In Stock,7 days return policy,8,3.26,46.73,4499.1,4205.7,Low,High Stock
+150,Metal Baseball Bat,sports-accessories,29.99,19.51,4.66,16,Unknown,SPO-BRD-MET-150,7,In Stock,60 days return policy,9,5.85,24.14,479.84,386.24,Medium,Low Stock
+151,Tennis Ball,sports-accessories,6.99,11.76,4.06,28,Unknown,SPO-BRD-TEN-151,3,In Stock,7 days return policy,6,0.82,6.17,195.72,172.76,Medium,Medium Stock
+152,Tennis Racket,sports-accessories,49.99,19.61,4.03,6,Unknown,SPO-BRD-TEN-152,7,Low Stock,7 days return policy,5,9.8,40.19,299.94,241.14,Medium,Low Stock
+153,Volleyball,sports-accessories,11.99,12.25,3.84,0,Unknown,SPO-BRD-VOL-153,3,Out of Stock,90 days return policy,44,1.47,10.52,0.0,0.0,Medium,Out of Stock
+154,Black Sun Glasses,sunglasses,29.99,4.94,4.41,60,Fashion Shades,SUN-FAS-BLA-154,1,In Stock,7 days return policy,17,1.48,28.51,1799.4,1710.6,Low,High Stock
+155,Classic Sun Glasses,sunglasses,24.99,4.94,3.86,1,Fashion Shades,SUN-FAS-CLA-155,8,Low Stock,90 days return policy,18,1.23,23.76,24.99,23.76,Low,Low Stock
+156,Green and Black Glasses,sunglasses,34.99,1.01,4.55,24,Fashion Shades,SUN-FAS-GRE-156,7,In Stock,30 days return policy,15,0.35,34.64,839.76,831.36,Low,Medium Stock
+157,Party Glasses,sunglasses,19.99,11.22,2.79,86,Fashion Fun,SUN-FAS-PAR-157,9,In Stock,7 days return policy,39,2.24,17.75,1719.14,1526.5,Medium,High Stock
+158,Sunglasses,sunglasses,22.99,1.51,3.02,27,Fashion Shades,SUN-FAS-SUN-158,1,In Stock,60 days return policy,8,0.35,22.64,620.73,611.28,Low,Medium Stock
+159,iPad Mini 2021 Starlight,tablets,499.99,3.64,3.18,47,Apple,TAB-APP-IPA-159,5,In Stock,No return policy,3,18.2,481.79,23499.53,22644.13,Low,Medium Stock
+160,Samsung Galaxy Tab S8 Plus Grey,tablets,599.99,13.31,4.68,62,Samsung,TAB-SAM-SAM-160,1,In Stock,7 days return policy,1,79.86,520.13,37199.38,32248.06,Medium,High Stock
+161,Samsung Galaxy Tab White,tablets,349.99,18.2,3.72,92,Samsung,TAB-SAM-SAM-161,5,In Stock,7 days return policy,5,63.7,286.29,32199.08,26338.68,Medium,High Stock
+162,Blue Frock,tops,29.99,12.13,4.17,52,Unknown,TOP-BRD-BLU-162,5,In Stock,60 days return policy,4,3.64,26.35,1559.48,1370.2,Medium,High Stock
+163,Girl Summer Dress,tops,19.99,19.2,4.77,43,Unknown,TOP-BRD-GIR-163,5,In Stock,60 days return policy,46,3.84,16.15,859.57,694.45,Medium,Medium Stock
+164,Gray Dress,tops,34.99,14.28,2.72,55,Unknown,TOP-BRD-GRA-164,1,In Stock,90 days return policy,13,5.0,29.99,1924.45,1649.45,Medium,High Stock
+165,Short Frock,tops,24.99,13.45,3.23,22,Unknown,TOP-BRD-SHO-165,10,In Stock,30 days return policy,5,3.36,21.63,549.78,475.86,Medium,Medium Stock
+166,Tartan Dress,tops,39.99,12.95,4.05,73,Unknown,TOP-BRD-TAR-166,8,In Stock,No return policy,1,5.18,34.81,2919.27,2541.13,Medium,High Stock
+167,300 Touring,vehicle,28999.99,3.98,4.05,54,Chrysler,VEH-CHR-TOU-167,9,In Stock,30 days return policy,1,1154.2,27845.79,1565999.46,1503672.66,Low,High Stock
+168,Charger SXT RWD,vehicle,32999.99,8.23,2.58,57,Dodge,VEH-DOD-CHA-168,6,In Stock,No return policy,1,2715.9,30284.09,1880999.43,1726193.13,Low,High Stock
+169,Dodge Hornet GT Plus,vehicle,24999.99,2.63,2.65,82,Dodge,VEH-DOD-DOD-169,8,In Stock,60 days return policy,1,657.5,24342.49,2049999.18,1996084.18,Low,High Stock
+170,Durango SXT RWD,vehicle,36999.99,16.44,4.07,95,Dodge,VEH-DOD-DUR-170,1,In Stock,30 days return policy,1,6082.8,30917.19,3514999.05,2937133.05,Medium,High Stock
+171,Pacifica Touring,vehicle,31999.99,14.76,3.62,53,Chrysler,VEH-CHR-PAC-171,9,In Stock,60 days return policy,1,4723.2,27276.79,1695999.47,1445669.87,Medium,High Stock
+172,Blue Women's Handbag,womens-bags,49.99,17.88,2.92,76,Fashionista,WOM-FAS-BLU-172,7,In Stock,7 days return policy,5,8.94,41.05,3799.24,3119.8,Medium,High Stock
+173,Heshe Women's Leather Bag,womens-bags,129.99,3.87,4.92,99,Heshe,WOM-HES-HES-173,3,In Stock,90 days return policy,5,5.03,124.96,12869.01,12371.04,Low,High Stock
+174,Prada Women Bag,womens-bags,599.99,14.09,2.71,75,Prada,WOM-PRA-PRA-174,4,In Stock,60 days return policy,1,84.54,515.45,44999.25,38658.75,Medium,High Stock
+175,White Faux Leather Backpack,womens-bags,39.99,15.2,3.36,39,Urban Chic,WOM-URB-WHI-175,7,In Stock,90 days return policy,7,6.08,33.91,1559.61,1322.49,Medium,Medium Stock
+176,Women Handbag Black,womens-bags,59.99,11.63,2.89,11,Elegance Collection,WOM-ELE-WOM-176,6,In Stock,60 days return policy,9,6.98,53.01,659.89,583.11,Medium,Low Stock
+177,Black Women's Gown,womens-dresses,129.99,10.48,3.64,25,Unknown,WOM-BRD-BLA-177,2,In Stock,No return policy,5,13.62,116.37,3249.75,2909.25,Medium,Medium Stock
+178,Corset Leather With Skirt,womens-dresses,89.99,16.26,3.05,30,Unknown,WOM-BRD-COR-178,1,In Stock,30 days return policy,3,14.63,75.36,2699.7,2260.8,Medium,Medium Stock
+179,Corset With Black Skirt,womens-dresses,79.99,15.06,4.52,33,Unknown,WOM-BRD-COR-179,7,In Stock,No return policy,5,12.05,67.94,2639.67,2242.02,Medium,Medium Stock
+180,Dress Pea,womens-dresses,49.99,17.68,4.88,6,Unknown,WOM-BRD-DRE-180,1,Low Stock,90 days return policy,6,8.84,41.15,299.94,246.9,Medium,Low Stock
+181,Marni Red & Black Suit,womens-dresses,179.99,19.02,4.48,62,Unknown,WOM-BRD-MAR-181,3,In Stock,90 days return policy,2,34.23,145.76,11159.38,9037.12,Medium,High Stock
+182,Green Crystal Earring,womens-jewellery,29.99,15.24,3.96,54,Unknown,WOM-BRD-GRE-182,2,In Stock,60 days return policy,15,4.57,25.42,1619.46,1372.68,Medium,High Stock
+183,Green Oval Earring,womens-jewellery,24.99,15.18,3.57,73,Unknown,WOM-BRD-GRE-183,10,In Stock,60 days return policy,19,3.79,21.2,1824.27,1547.6,Medium,High Stock
+184,Tropical Earring,womens-jewellery,19.99,0.76,4.4,1,Unknown,WOM-BRD-TRO-184,3,Low Stock,7 days return policy,31,0.15,19.84,19.99,19.84,Low,Low Stock
+185,Black & Brown Slipper,womens-shoes,19.99,3.33,2.53,3,Comfort Trends,WOM-COM-BLA-185,5,Low Stock,60 days return policy,47,0.67,19.32,59.97,57.96,Low,Low Stock
+186,Calvin Klein Heel Shoes,womens-shoes,79.99,3.19,4.92,93,Calvin Klein,WOM-CAL-CAL-186,6,In Stock,60 days return policy,6,2.55,77.44,7439.07,7201.92,Low,High Stock
+187,Golden Shoes Woman,womens-shoes,49.99,13.93,3.26,88,Fashion Diva,WOM-FAS-GOL-187,4,In Stock,7 days return policy,7,6.96,43.03,4399.12,3786.64,Medium,High Stock
+188,Pampi Shoes,womens-shoes,29.99,14.14,3.05,49,Pampi,WOM-PAM-PAM-188,7,In Stock,60 days return policy,12,4.24,25.75,1469.51,1261.75,Medium,Medium Stock
+189,Red Shoes,womens-shoes,34.99,17.69,3.25,7,Fashion Express,WOM-FAS-SHO-189,10,Low Stock,60 days return policy,8,6.19,28.8,244.93,201.6,Medium,Low Stock
+190,IWC Ingenieur Automatic Steel,womens-watches,4999.99,9.45,2.93,90,IWC,WOM-IWC-ING-190,3,In Stock,No return policy,1,472.5,4527.49,449999.1,407474.1,Low,High Stock
+191,Rolex Cellini Moonphase,womens-watches,15999.99,4.11,3.83,52,Rolex,WOM-ROL-ROL-191,10,In Stock,30 days return policy,1,657.6,15342.39,831999.48,797804.28,Low,High Stock
+192,Rolex Datejust Women,womens-watches,10999.99,15.94,2.86,4,Rolex,WOM-ROL-ROL-192,3,Low Stock,No return policy,1,1753.4,9246.59,43999.96,36986.36,Medium,Low Stock
+193,Watch Gold for Women,womens-watches,799.99,18.34,4.24,0,Fashion Gold,WOM-FAS-WAT-193,1,Out of Stock,60 days return policy,1,146.72,653.27,0.0,0.0,Medium,Out of Stock
+194,Women's Wrist Watch,womens-watches,129.99,12.6,3.52,12,Fashion Co.,WOM-FAS-WOM-194,1,In Stock,No return policy,5,16.38,113.61,1559.88,1363.32,Medium,Low Stock
